@@ -1,7 +1,6 @@
 package machine;
 
 public class TestDevice implements GumballHardwareDevice {
-
 	private String displayedMessage;
 	private boolean wasQuarterEjected;
 	private int numGumballs;
@@ -22,16 +21,12 @@ public class TestDevice implements GumballHardwareDevice {
 		wasQuarterEjected = true;
 	}
 
-	@Override
-	public int totalGumballCount() {
-		return numGumballs;
-	}
-
 	public String getDisplayedMessage() {
 		return displayedMessage;
 	}
 
 	public boolean wasQuarterEjected() {
+		displayMessage(Messages.SO_QUART);
 		return wasQuarterEjected;
 	}
 

@@ -24,6 +24,4 @@ public interface GumballHardwareDevice {
 	 * multiple quarters.
 	 */
 	public void dispenseQuarter();
-
-	int totalGumballCount();
 }
