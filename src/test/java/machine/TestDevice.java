@@ -22,6 +22,11 @@ public class TestDevice implements GumballHardwareDevice {
 		wasQuarterEjected = true;
 	}
 
+	@Override
+	public int totalGumballCount() {
+		return numGumballs;
+	}
+
 	public String getDisplayedMessage() {
 		return displayedMessage;
 	}
