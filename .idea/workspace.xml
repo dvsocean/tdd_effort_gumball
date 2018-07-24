@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4e77287-486b-4b39-86ff-a12915b29bf5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/machine/GumballHardwareDevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/machine/GumballHardwareDevice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/machine/GumballMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/machine/GumballMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/machine/Messages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/machine/Messages.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/machine/GumballMachineTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/machine/GumballMachineTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/machine/TestDevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/machine/TestDevice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/machine/GumballHardwareDevice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/machine/GumballHardwareDevice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/machine/GumballMachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/machine/GumballMachine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/machine/GumballMachineTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/machine/GumballMachineTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/machine/TestDevice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/machine/TestDevice.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,8 +18,8 @@
       <file leaf-file-name="GumballMachineTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/machine/GumballMachineTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="45" column="51" selection-start-line="45" selection-start-column="51" selection-end-line="45" selection-end-column="51" />
+            <state relative-caret-position="639">
+              <caret line="52" column="3" lean-forward="true" selection-start-line="52" selection-start-column="3" selection-end-line="52" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -348,9 +339,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GumballMachineTest - 2018.07.23 at 12h 47m 48s.xml">
-      <configuration name="GumballMachineTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="GumballMachineTest - 2018.07.23 at 12h 48m 26s.xml">
       <configuration name="GumballMachineTest" configurationId="JUnit" />
     </history-entry>
@@ -376,6 +364,9 @@
       <configuration name="GumballMachineTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="GumballMachineTest - 2018.07.24 at 06h 56m 16s.xml">
+      <configuration name="GumballMachineTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GumballMachineTest - 2018.07.24 at 06h 58m 32s.xml">
       <configuration name="GumballMachineTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -756,13 +747,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/machine/TestDevice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/machine/GumballMachine.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -777,10 +761,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/machine/TestDevice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/machine/GumballMachineTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="45" column="51" selection-start-line="45" selection-start-column="51" selection-end-line="45" selection-end-column="51" />
+        <state relative-caret-position="639">
+          <caret line="52" column="3" lean-forward="true" selection-start-line="52" selection-start-column="3" selection-end-line="52" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

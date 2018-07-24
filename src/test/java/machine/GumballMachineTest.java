@@ -52,64 +52,64 @@ public class GumballMachineTest {
 
 	}
 
-	@Test
-	public void displayMessageIfCrankTurnedWithNoQuarter(){
-
-	}
-
-	@Test
-	public void displayMessageWhenQuarterIsNotReturnedUponEjectButton(){
-
-	}
-
-	@Test
-	public void displayMessageWhenCrankIsTurnedWithoutAQuarter(){
-
-	}
-
-	//------------------------------------------------------------
-
-	@Test
-	public void displayMessageWhenQuarterIsPresentButCrankNotYetTurned(){
-
-	}
-
-	@Test
-	public void displayMessageIfUserAttempsToInsertASecondQuarter(){
-
-	}
-
-	@Test
-	public void displayMessageWhenEjectQuarterBUttonHasBeenPressed(){
-
-	}
-
-	@Test
-	public void displayMessageWhenQaurterInsertedAndCrankTurned(){
-
-	}
-
-	//-------------------------------------------------------------
-
-	@Test
-	public void winSituationDisplayMessageIfWinner(){
-
-	}
-
-	@Test
-	public void winSituationDisplayMessageIfWinnerAttempsToInsertAnotherQuarter(){
-
-	}
-
-	@Test
-	public void winSituationDisplayMessageIfWinnerPressesTheEjectBUtton(){
-
-	}
-
-	@Test
-	public void winSituationDisplayMessageIfWinnerTurnsTheCrank(){
-
-	}
+//	@Test
+//	public void displayMessageIfCrankTurnedWithNoQuarter(){
+//
+//	}
+//
+//	@Test
+//	public void displayMessageWhenQuarterIsNotReturnedUponEjectButton(){
+//
+//	}
+//
+//	@Test
+//	public void displayMessageWhenCrankIsTurnedWithoutAQuarter(){
+//
+//	}
+//
+//	//------------------------------------------------------------
+//
+//	@Test
+//	public void displayMessageWhenQuarterIsPresentButCrankNotYetTurned(){
+//
+//	}
+//
+//	@Test
+//	public void displayMessageIfUserAttempsToInsertASecondQuarter(){
+//
+//	}
+//
+//	@Test
+//	public void displayMessageWhenEjectQuarterBUttonHasBeenPressed(){
+//
+//	}
+//
+//	@Test
+//	public void displayMessageWhenQaurterInsertedAndCrankTurned(){
+//
+//	}
+//
+//	//-------------------------------------------------------------
+//
+//	@Test
+//	public void winSituationDisplayMessageIfWinner(){
+//
+//	}
+//
+//	@Test
+//	public void winSituationDisplayMessageIfWinnerAttempsToInsertAnotherQuarter(){
+//
+//	}
+//
+//	@Test
+//	public void winSituationDisplayMessageIfWinnerPressesTheEjectBUtton(){
+//
+//	}
+//
+//	@Test
+//	public void winSituationDisplayMessageIfWinnerTurnsTheCrank(){
+//
+//	}
 
 
 }
